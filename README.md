@@ -127,9 +127,9 @@ https://cloudora-gamma.vercel.app/
                                    │
                                    ▼
                          ┌───────────────────┐
-                         │   SQLite Database │
+                         │   Supabase Database │
                          └───────────────────┘
-                         
+```                   
 ## 📂 Project Structure
 
 Cloudora/
