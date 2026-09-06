@@ -131,7 +131,7 @@ https://cloudora-gamma.vercel.app/
                          └───────────────────┘
 ```                   
 ## 📂 Project Structure
-
+```
 Cloudora/
 │
 ├── frontend/
@@ -161,7 +161,7 @@ Cloudora/
 │   └── shared.png
 │
 └── README.md
-
+```
 ## 🔐 Security
 
 Cloudora implements multiple security mechanisms to protect user accounts and files.
@@ -190,13 +190,13 @@ The backend is built using FastAPI and deployed separately on Render.
 
 The frontend communicates with the backend through REST APIs.
 
-### 🚀 Future Enhancements
-### 📂 Folder creation and nested folder management
-### 🖼️ File preview functionality
-### 🔍 Advanced search and filtering
-### 📜 File version history
-### 📧 Email notifications for file sharing
-### ☁️ Cloud object storage integration
-### 📱 Improved mobile responsiveness
-### 📊 Advanced storage analytics
-### 👨‍💼 Admin dashboard
+#### 🚀 Future Enhancements
+#### 📂 Folder creation and nested folder management
+#### 🖼️ File preview functionality
+#### 🔍 Advanced search and filtering
+#### 📜 File version history
+#### 📧 Email notifications for file sharing
+#### ☁️ Cloud object storage integration
+#### 📱 Improved mobile responsiveness
+#### 📊 Advanced storage analytics
+#### 👨‍💼 Admin dashboard
